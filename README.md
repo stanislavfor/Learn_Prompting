@@ -29,7 +29,7 @@ First, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-G
 Make sure you are using Node 18.0.0 or higher (`node -v`). Then, run the following commands in a terminal:
 ```
 # download the website code with git
-git clone https://github.com/trigaten/Learn_Prompting.git
+git clone https://github.com/stanislavfor/Learn_Prompting.git
 # enter the project directory
 cd Learn_Prompting
 # install node modules
